@@ -1,0 +1,31 @@
+{
+  "name": "react-projects",
+  "version": "1.0.0",
+  "description": "This project contains different react practice programs",
+  
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadamsanjivani4/reactpractice.git"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "kadam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadamsanjivani4/reactpractice/issues"
+  },
+  "homepage": "https://github.com/kadamsanjivani4/reactpractice#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  },
+  "browserslist":[
+    "last 10 versions"
+    ]
+}
